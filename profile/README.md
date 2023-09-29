@@ -12,7 +12,7 @@
 위 링크는 행복기숙사에서 실제로 사용하고 있는 페이지로 내부 데이터는 더미(가상) 데이터로 배포되고 있습니다.
 
 ## 팀원
-|        |        |
+|  ![KakaoTalk_20230930_004336751](https://github.com/DominestSKHU/.github/assets/97311614/ce2129db-e2de-4a76-a65e-5e154d5bd165)   |    ![KakaoTalk_20230927_170702689](https://github.com/DominestSKHU/.github/assets/97311614/38aa39a6-56ad-4397-9b7e-20f405aaeffb)    |
 |--------|--------|
 | 이현우 | 조성우 |
 
